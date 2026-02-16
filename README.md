@@ -1,2 +1,2 @@
 # telep
-Telepromter app
+Teleprompter app
